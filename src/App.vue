@@ -6,6 +6,7 @@
 </template>
 
 <script>
+// test
 import FixedTable from './components/FixedTable';
 
 export default {
