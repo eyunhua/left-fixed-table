@@ -1,9 +1,9 @@
 {
   "name": "left-fixed-table",
-  "version": "v0.1.0-dev",
+  "version": "v0.1.0-dev.1",
   "description": "A Vue.js project",
   "author": "eyunhua",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",
